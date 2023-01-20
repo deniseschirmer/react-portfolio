@@ -23,7 +23,6 @@ The project is being developed in React, with the intention of showing the techn
 - [FIREBASE](https://firebase.google.com/?hl=pt)
 
 
-
 --- 
 Before starting, you will need to have the following tools installed on your machine:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/).
