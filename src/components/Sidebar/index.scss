@@ -135,8 +135,7 @@
   display: none;
 }
 
-
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 1200px){
   .nav-bar { 
     background: transparent;
     position: initial;
@@ -163,7 +162,8 @@
 
       a {
         display: flex;
-        justify-content: center;
+       
+        padding-left: 40px;
         align-items: center;
       }
 
@@ -188,3 +188,4 @@
      }
   }
 }
+
