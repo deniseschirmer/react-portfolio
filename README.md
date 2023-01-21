@@ -32,7 +32,7 @@ Also it's nice to have an editor to work with the code like [VSCode](https://cod
 
 ```bash
 # Clone this repository
-$ git clone  https://github.com/deniseschirmer/portfolio
+$ git clone  https://github.com/deniseschirmer/react-portfolio
 # Access project folder in terminal/cmd
 
 # Install the dependencies
