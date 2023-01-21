@@ -14,7 +14,7 @@
 The project is being developed in React, with the intention of showing the technologies that I have studied and am studying, such as React with EmailJs, Firebase, Routes...
 
 
-### Project Link: https://schirmer-portfolio.netlify.app/
+### Project Link: https://portfolio-schirmer.netlify.app/portfolio
 ### 🛠 Tecnologias
 #### The following tools were used in building the project:
 
