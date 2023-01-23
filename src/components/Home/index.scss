@@ -73,40 +73,19 @@
     animation: fadeInAnimation 1s 1.8s backwards;
     white-space: nowrap;
     margin-right: 20px;
+    padding-right: 25px;
 
     &:hover {
       background: #334d56;
       color: #ffd700;
     }
   }
-
-  // .cta {
-  //   display: flex;
-  //   flex-direction: row;
-  //   gap: 2.2rem;
-  //   justify-content: start;
-  // }
 }
 
 @media screen and (max-width: 768px) {
   .home-page h1 {
     font-size: 44px;
   }
-
-  // .home-page .text-zone {
-  //   position: initial;
-  //   width: 100%;
-  //   transform: none;
-  //   padding: 10px;
-  //   box-sizing: border-box;
-  // }
-
-  // .home-page .flat-button {
-  //   float: none;
-  //   display: block;
-  //   margin: 20px auto 0 auto;
-  //   width: 124px;
-  // }
 }
 
 

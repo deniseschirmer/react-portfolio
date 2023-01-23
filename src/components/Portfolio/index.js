@@ -31,7 +31,7 @@ const Portfolio = () => {
   const renderPortfolio = (portfolio) => {
     return (
       <div className="images-container">
-        {portfolio.map((port, idx) => {
+        texto grande {portfolio.map((port, idx) => {
           return (
             <div className="image-box" key={idx}>
               <img
