@@ -73,7 +73,6 @@
     animation: fadeInAnimation 1s 1.8s backwards;
     white-space: nowrap;
     margin-right: 20px;
-    padding-right: 25px;
 
     &:hover {
       background: #334d56;
@@ -82,11 +81,6 @@
   }
 }
 
-@media screen and (max-width: 768px) {
-  .home-page h1 {
-    font-size: 44px;
-  }
-}
 
 
 @media screen and (max-width: 1200px) {
@@ -100,7 +94,7 @@
     position: initial;
     width: 100%;
     transform: none;
-    padding: 17px;
+    padding: 10px;
     box-sizing: border-box;
   }
 

@@ -1,4 +1,3 @@
-
 ### Technologies used REACT
 
 <h1 style="text-align: center; font-weight: bold;">PORTFOLIO</h1>
@@ -14,13 +13,14 @@
 The project is being developed in React, with the intention of showing the technologies that I have studied and am studying, such as React with EmailJs, Firebase, Routes...
 
 
-### Project Link: https://portfolio-schirmer.netlify.app/portfolio
+### Project Link: https://react-portfolio-master.netlify.app/
 ### 🛠 Tecnologias
 #### The following tools were used in building the project:
 
 - [REACT](https://pt-br.reactjs.org/)
 - [EmailJs](https://www.emailjs.com/)
 - [FIREBASE](https://firebase.google.com/?hl=pt)
+
 
 
 --- 
@@ -32,7 +32,7 @@ Also it's nice to have an editor to work with the code like [VSCode](https://cod
 
 ```bash
 # Clone this repository
-$ git clone  https://github.com/deniseschirmer/react-portfolio
+$ git clone  https://github.com/deniseschirmer/portfolio
 # Access project folder in terminal/cmd
 
 # Install the dependencies

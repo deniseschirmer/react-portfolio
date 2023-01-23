@@ -135,7 +135,8 @@
   display: none;
 }
 
-@media screen and (max-width: 1200px){
+
+@media screen and (max-width: 1200px) {
   .nav-bar { 
     background: transparent;
     position: initial;
@@ -162,7 +163,6 @@
 
       a {
         display: flex;
-       
         padding-left: 40px;
         align-items: center;
       }
@@ -182,10 +182,9 @@
      .hamburger-icon,
      .close-icon {
         position: absolute;
-        top: 20px;
-        right: 30px;
+        top: 15px;
+        right: 15px;
         display: block;
      }
   }
 }
-
