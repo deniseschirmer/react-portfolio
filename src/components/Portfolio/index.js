@@ -53,7 +53,9 @@ const Portfolio = () => {
                 </div>
               )
             })
-          : ' CARREGANDO... '}
+          : alert('carregando ')} 
+
+          <h1>Fora</h1>
       </div>
     )
   }
